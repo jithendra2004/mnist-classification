@@ -5,6 +5,9 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
+We aim to build a RNN model to predict the stock prices of Google using the dataset provided. The dataset has many features, but we will be predicting the "Open" feauture alone. We will be using a sequence of 60 readings to predict the 61st reading. Note: These parameters can be changed as per requirements.
+
+![image](https://github.com/jithendra2004/mnist-classification/assets/94226297/7cb6ac0f-02a1-4404-b839-529e64fdfda3)
 
 ## Neural Network Model
 
